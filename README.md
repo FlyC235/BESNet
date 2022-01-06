@@ -28,6 +28,6 @@ The results will be saved in the `./snapshots/` folder.
 # Test
 For test, run:
 ```
-sh Eval1.sh
+sh Eval.sh
 ```
-For different datasets, please manully change `dataset` in `Eval1.sh`.
+For different datasets, please manully change `dataset` in `Eval.sh`.
