@@ -15,18 +15,18 @@ The code is based on FCN_8s
 - CUDA ==10.1
 
 # Train
-For Vaihingen,run:
+For Vaihingen, run:
 ```
 sh train_vaihingen_fcn.sh
 ```
-For Potsdam,run:
+For Potsdam, run:
 ```
 sh train_potsdam_fcn.sh
 ```
 The results will be saved in the `./snapshots/` folder.
 
 # Test
-For test,run:
+For test, run:
 ```
 sh Eval1.sh
 ```
