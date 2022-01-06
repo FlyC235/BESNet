@@ -14,4 +14,4 @@ CUDA_VISIBLE_DEVICES='0' python -u Eval.py \
     --dataset $dataset \
     --data_dir "/media/FlyC235/Fly/dataset/${dataset}/" \
     --test_list  "/media/FlyC235/Fly/dataset/${dataset}/${dataset}_test_fullsize.txt" \
-    --checkpoint "/media/FlyC235/Fly/BESnet/snapshots/potsdam/BESNet_0.005_4/2022-01-01_11-11-11/checkpoint/best_metrics.pth" \
+    --checkpoint "/media/FlyC235/Fly/BESnet/snapshots/potsdam/BESNet_0.000_0/2022-01-01_11-11-11/checkpoint/best_metrics.pth" \
